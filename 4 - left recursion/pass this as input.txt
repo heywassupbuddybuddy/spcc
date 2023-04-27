@@ -1,0 +1,2 @@
+Enter No of Production: 1
+E -> E*E|T

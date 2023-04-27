@@ -1,0 +1,6 @@
+pip install pandas
+python codeOptimization.py
+
+
+
+

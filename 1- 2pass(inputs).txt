@@ -1,0 +1,7 @@
+Enter the no of instruction lines : 6
+Enter instruction line 1 : MOV R
+Enter instruction line 2 : Next: ADD R
+Enter instruction line 3 : DCR R
+Enter instruction line 4 : JNZ Next
+Enter instruction line 5 : STORE 2000
+Enter instruction line 6 : HALT
